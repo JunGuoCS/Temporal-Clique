@@ -1,0 +1,20 @@
+﻿生成启动时间为 2017/1/12 17:44:53。
+     1>项目“D:\Rex\TemporalClique\TemporalClique\TemporalClique.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Y\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+       Link:
+         D:\Y\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Rex\TemporalClique\Debug\TemporalClique.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Rex\TemporalClique\Debug\TemporalClique.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Rex\TemporalClique\Debug\TemporalClique.lib" /MACHINE:X86 Debug\Func.obj
+         Debug\Graph.obj
+         Debug\Clique.obj
+         Debug\CliqueMater.obj
+         Debug\Interval.obj
+         Debug\main.obj
+         Debug\neighborhood.obj
+         Debug\pivoting.obj
+         TemporalClique.vcxproj -> D:\Rex\TemporalClique\Debug\TemporalClique.exe
+     1>已完成生成项目“D:\Rex\TemporalClique\TemporalClique\TemporalClique.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.57
