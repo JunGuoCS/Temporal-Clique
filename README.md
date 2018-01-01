@@ -32,5 +32,8 @@ Each line contains two nodes, representing one edge 1->2.
 3. Read a local dataset. Format is the same as 2  
 
 ### Parameter Select
-Set delta
-delta: the minimum durable time of a clique
+Set delta  
+delta: the minimum durable time of a clique  
+
+Choose pivoting methods
+
