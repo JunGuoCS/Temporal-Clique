@@ -7,6 +7,10 @@ Then Himmel, Anne Sophie, et al. in their paper *"Enumerating Maximal Cliques in
 
 This project is a C++ implementation for *"Enumerating Maximal Cliques in Temporal Graphs."*
 
-#Quick Start
+# Quick Start
+1. Download and install <a href="https://www.visualstudio.com/downloads/">Visual Studio 2013 or higher version</a>
+
+2. 
+
 
 
