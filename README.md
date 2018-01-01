@@ -22,15 +22,15 @@ The other line has two labels A and B, which means there is one edge A->B
 2 3  
       
 2. Read test dataset
-The dataset has format:
-1     2  
+The dataset has format:   
+1     2    
 3     222  
 29    51  
-...
+...  
 Each line contains two nodes, representing one edge 1->2.  
   
 3. Read a local dataset. Format is the same as 2  
 
 ### Parameter Select
 Set delta
-
+delta: the minimum durable time of a clique
